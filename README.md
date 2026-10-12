@@ -25,42 +25,7 @@ Building practical software solutions with clean code and modern technologies.
 - 💬 Ask me about Python, Java, PHP, Laravel, ReactJS, and SQL.
 - 📫 Email: **nipunawgamage@gmail.com**
 
----
 
-## 🚀 Featured Projects
-
-### 🚦 AI-Driven Smart Traffic Accident Prediction & Alert System
-
-**Technologies:** Python · TensorFlow · XGBoost · LSTM · MySQL
-
-- Developed a system to predict high-risk traffic accident zones using traffic and environmental data.
-- Implemented and evaluated machine learning models to identify accident-risk patterns.
-- Built a data-processing pipeline for feature engineering, model training, and evaluation.
-- Designed a real-time alert mechanism for potentially hazardous road conditions.
-
-### 🚗 Vehicle Damage Cost Predictor
-
-**Technologies:** ReactJS · Python
-
-- Developed a web application to estimate vehicle damage repair costs.
-- Implemented frontend components and backend functionality.
-- Contributed to data handling and automated cost-estimation workflows.
-
-### 🍔 Queue Management System
-
-**Technology:** Java
-
-- Developed a queue management application for a food-centre environment.
-- Implemented customer queue, cashier occupancy, and stock-management functionality.
-
-### 🏪 Store Management & Cashier System
-
-**Technology:** Java · Object-Oriented Programming
-
-- Built a desktop application for store management and cashier operations.
-- Applied object-oriented programming principles to organise application functionality.
-
----
 
 ## 🛠️ Languages, Frameworks & Tools
 
