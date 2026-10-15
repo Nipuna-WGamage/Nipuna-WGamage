@@ -12,6 +12,9 @@ Building practical software solutions with clean code and modern technologies.
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunawgamage@gmail.com)
 
 </div>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=nipuna-wgamage.nipuna-wgamage&"  />
+</div>
 
 ---
 
@@ -61,9 +64,10 @@ Building practical software solutions with clean code and modern technologies.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-wgamage&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 
+
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=nipuna-wgamage&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=nipuna-wgamage&locale=en&mode=daily&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"  />
 
 </div>
 
