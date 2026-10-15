@@ -58,18 +58,14 @@ Building practical software solutions with clean code and modern technologies.
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nipuna-wgamage&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-wgamage&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=nipuna-wgamage&locale=en&mode=daily&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"  />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nipuna-wgamage&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-wgamage&layout=compact&langs_count=5&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <br/><br/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=nipuna-wgamage&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
+
 
 ---
 
